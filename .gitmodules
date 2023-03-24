@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hapassoc"]
+	path = hapassoc
+	url = https://github.com/cran/hapassoc
+	shallow = true
+	registered = true
